@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blockchain/staking", {data:[{}],fetch:{},mutations:[]});
